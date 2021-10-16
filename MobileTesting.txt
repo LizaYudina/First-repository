@@ -1,9 +1,9 @@
- Strategic automation.
- Framework selection.
- Platform considerations.
- Functional testing.
- Performance testing.
- Accessibility testing.
- UX testing.
- Compatibility testing.
- Security testing.
+ Strategic automation
+ Framework selection
+ Platform considerations
+ Functional testing
+ Performance testing
+ Accessibility testing
+ UX testing
+ Compatibility testing
+ Security testing(Testing the data protection capability of the mobile app)
